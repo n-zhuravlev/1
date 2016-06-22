@@ -1,4 +1,4 @@
-/* Используемая архитектура: Linux */
+﻿/* Linux */
 
 #include <stdio.h>
 #include <stdlib.h>
